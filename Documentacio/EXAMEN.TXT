@@ -82,3 +82,12 @@ git add .
 git commit -m "7 commit"
 
 git push examen master
+
+
+8. ----------------------------------------------------------
+
+git add EXAMEN.TXT
+
+git commit -m "8 commit"
+
+git push examen master
