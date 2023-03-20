@@ -47,3 +47,25 @@ git commit -m "quart commit"
 git push -u examen master
 
 
+5.-----------------------------------------------------
+
+git branch nousforms
+
+git checkout nousforms
+
+he creat els forms amb els seus respectius colors
+
+git add . 
+
+git commit -m "cinc commit"
+
+git push examen nousforms
+
+
+6.-----------------------------------------------------------
+
+he creat la branch ampliacio en la web i he afegit el fitxer Apliacio.TXT
+
+git pull examen ampliacio
+
+
