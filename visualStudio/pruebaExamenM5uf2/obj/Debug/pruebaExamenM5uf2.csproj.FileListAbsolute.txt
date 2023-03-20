@@ -1,0 +1,13 @@
+C:\examenm5uf2\visualStudio\pruebaExamenM5uf2\bin\Debug\pruebaExamenM5uf2.exe.config
+C:\examenm5uf2\visualStudio\pruebaExamenM5uf2\bin\Debug\pruebaExamenM5uf2.exe
+C:\examenm5uf2\visualStudio\pruebaExamenM5uf2\bin\Debug\pruebaExamenM5uf2.pdb
+C:\examenm5uf2\visualStudio\pruebaExamenM5uf2\obj\Debug\pruebaExamenM5uf2.csproj.AssemblyReference.cache
+C:\examenm5uf2\visualStudio\pruebaExamenM5uf2\obj\Debug\pruebaExamenM5uf2.csproj.SuggestedBindingRedirects.cache
+C:\examenm5uf2\visualStudio\pruebaExamenM5uf2\obj\Debug\pruebaExamenM5uf2.FrmMain.resources
+C:\examenm5uf2\visualStudio\pruebaExamenM5uf2\obj\Debug\pruebaExamenM5uf2.FrmGroc.resources
+C:\examenm5uf2\visualStudio\pruebaExamenM5uf2\obj\Debug\pruebaExamenM5uf2.FrmVerd.resources
+C:\examenm5uf2\visualStudio\pruebaExamenM5uf2\obj\Debug\pruebaExamenM5uf2.Properties.Resources.resources
+C:\examenm5uf2\visualStudio\pruebaExamenM5uf2\obj\Debug\pruebaExamenM5uf2.csproj.GenerateResource.cache
+C:\examenm5uf2\visualStudio\pruebaExamenM5uf2\obj\Debug\pruebaExamenM5uf2.csproj.CoreCompileInputs.cache
+C:\examenm5uf2\visualStudio\pruebaExamenM5uf2\obj\Debug\pruebaExamenM5uf2.exe
+C:\examenm5uf2\visualStudio\pruebaExamenM5uf2\obj\Debug\pruebaExamenM5uf2.pdb

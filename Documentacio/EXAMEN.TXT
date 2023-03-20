@@ -35,3 +35,15 @@ git commit -m "tercer commit"
 
 git push -u examen master
 
+
+4.------------------------------------------------------
+
+he creat els botons i cambiat el nom a FrmMain
+
+git add .
+
+git commit -m "quart commit"
+
+git push -u examen master
+
+
