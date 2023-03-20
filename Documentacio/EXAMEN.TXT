@@ -1,3 +1,6 @@
+
+1.---------------------------------------------------
+
 mkdir examenm5uf2
 nano README.MD
 nano COPYLEFT.TXT
@@ -5,10 +8,24 @@ git init
 
 git commit -m "primer commit"
 git remote add examen https://github.com/joansv13/examenm5uf2.git
-git push -u origin master
-
-
+git push -u examen master
 
 mkdir Documentacio
 
 nano Examen.TXT
+
+
+2.--------------------------------------------------
+nano LICENSE
+
+he posat la licencia GNU de la web chooseaLicence
+
+git commit -m "segon commit"
+
+git push -u examen master
+
+
+3.-----------------------------------------------------
+
+
+
