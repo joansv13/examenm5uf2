@@ -69,3 +69,16 @@ he creat la branch ampliacio en la web i he afegit el fitxer Apliacio.TXT
 git pull examen ampliacio
 
 
+7.-----------------------------------------------------------
+
+git checkout master
+
+git merge ampliacio
+
+git merge nousforms
+
+git add .
+
+git commit -m "7 commit"
+
+git push examen master
