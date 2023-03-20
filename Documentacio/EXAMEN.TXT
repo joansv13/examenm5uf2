@@ -3,7 +3,11 @@ nano README.MD
 nano COPYLEFT.TXT
 git init
 
-git remote add origin https://github.com/joansv13/examenm5uf2.git
+git commit -m "primer commit"
+git remote add examen https://github.com/joansv13/examenm5uf2.git
+git push -u origin master
+
+
 
 mkdir Documentacio
 
