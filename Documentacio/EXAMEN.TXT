@@ -27,5 +27,11 @@ git push -u examen master
 
 3.-----------------------------------------------------
 
+nano .gitignore
 
+Dins del ficher possem el *.sln perque els fichers d'aquest extensio no es puguin pujar al github
+
+git commit -m "tercer commit"
+
+git push -u examen master
 
